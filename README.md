@@ -1,25 +1,24 @@
 # AI-Skill-Fest-2026
 
-## Start Smart with Microsoft 365 Copilot
-AI is transforming the way we work, helping professionals become more productive, efficient, and collaborative. Join our exclusive session on “Start Smart with Microsoft 365 Copilot” to explore how AI can simplify daily tasks, improve communication, and help you work smarter across your organization.
-
-Discover how Microsoft 365 Copilot works seamlessly with familiar applications like Word, Excel, PowerPoint, Outlook, and Teams to assist with content creation, meeting summaries, data analysis, email management, and more.
+## Build Smarter with Copilot Agents
+AI is transforming the way organizations work by enabling smarter automation and more efficient workflows. Join our exclusive session on “Build Smarter with Copilot Agents” to discover how AI-powered agents can help streamline tasks, improve collaboration, and enhance productivity across your workplace.
+Learn how Copilot Agents can automate repetitive processes, assist with everyday tasks, simplify workflows, and help teams focus on more strategic and high-value work.
 
 ## Why Attend?
-- Understand how AI can enhance workplace productivity
-- Learn practical everyday use cases for Microsoft 365 Copilot
-- Save time by simplifying repetitive tasks and workflows
-- Improve collaboration and communication across teams
-- Discover smarter ways to work with AI-powered assistance
-
+- Discover how AI-powered agents can improve workplace efficiency
+- Learn practical use cases for Copilot Agents
+- Automate repetitive tasks and save valuable time
+- Enhance collaboration and streamline workflows
+- Explore smarter ways to work with AI-driven automation
+ 
 ## Learning Outcomes
-- Introduction to Microsoft 365 Copilot
-- AI-powered productivity across Microsoft 365 applications
-- Real-world workplace productivity scenarios
-- Smart prompting techniques for better results
-- Best practices to maximize efficiency with Copilot
+- Introduction to Microsoft Copilot Agents
+- AI-driven workflow automation use cases
+- Automating repetitive and manual business tasks
+- Enhancing collaboration and operational efficiency
+- Best practices for implementing Copilot Agents effectively
 
-Take the next step toward AI-powered productivity and discover how Microsoft 365 Copilot can help transform the way you work every day.
+Explore the future of workplace automation and learn how Microsoft Copilot Agents can help transform the way your teams work.
 
 --------------------------------------------------------------------------------------------------------------------
 
