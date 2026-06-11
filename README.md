@@ -1,24 +1,24 @@
 # AI-Skill-Fest-2026
 
-## Build Smarter with Copilot Agents
-AI is transforming the way organizations work by enabling smarter automation and more efficient workflows. Join our exclusive session on “Build Smarter with Copilot Agents” to discover how AI-powered agents can help streamline tasks, improve collaboration, and enhance productivity across your workplace.
-Learn how Copilot Agents can automate repetitive processes, assist with everyday tasks, simplify workflows, and help teams focus on more strategic and high-value work.
+## Everyday AI with Copilot Chat
+
+AI is becoming an essential part of the modern workplace, helping professionals work smarter, faster, and more efficiently. Join our session on “Everyday AI with Copilot Chat” to discover how AI can simplify daily work, improve productivity, and help transform ideas into action with ease.
+
+Explore practical ways to use Microsoft Copilot Chat for content creation, task management, collaboration, summarization, research, and everyday workplace productivity.
 
 ## Why Attend?
-- Discover how AI-powered agents can improve workplace efficiency
-- Learn practical use cases for Copilot Agents
-- Automate repetitive tasks and save valuable time
-- Enhance collaboration and streamline workflows
-- Explore smarter ways to work with AI-driven automation
- 
-## Learning Outcomes
-- Introduction to Microsoft Copilot Agents
-- AI-driven workflow automation use cases
-- Automating repetitive and manual business tasks
-- Enhancing collaboration and operational efficiency
-- Best practices for implementing Copilot Agents effectively
+- Learn how to use AI effectively in your daily workflow
+- Discover practical use cases of Microsoft Copilot Chat
+- Improve personal productivity and workplace efficiency
+- Understand how AI can help turn ideas into action faster
+- Gain insights into smarter collaboration and communication
 
-Explore the future of workplace automation and learn how Microsoft Copilot Agents can help transform the way your teams work.
+## Key Highlights / Learning Outcomes
+- Introduction to Microsoft Copilot Chat
+- Real-world workplace productivity use cases
+- AI-powered content creation and task assistance
+- Smart prompting techniques for better results
+- Best practices to integrate Copilot into everyday work
 
+Don’t miss this opportunity to explore how AI can empower you to work smarter, faster, and more efficiently. Reserve your spot today and take the first step toward AI-powered productivity.
 --------------------------------------------------------------------------------------------------------------------
-
