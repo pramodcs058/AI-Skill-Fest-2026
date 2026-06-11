@@ -1,5 +1,29 @@
 # AI-Skill-Fest-2026
 
+# Session - 3: Build Smarter with Copilot Agents
+
+AI is transforming the way organizations work by enabling smarter automation and more efficient workflows. Join our exclusive session on “Build Smarter with Copilot Agents” to discover how AI-powered agents can help streamline tasks, improve collaboration, and enhance productivity across your workplace.
+
+Learn how Copilot Agents can automate repetitive processes, assist with everyday tasks, simplify workflows, and help teams focus on more strategic and high-value work.
+
+## Why Attend?
+- Discover how AI-powered agents can improve workplace efficiency
+- Learn practical use cases for Copilot Agents
+- Automate repetitive tasks and save valuable time
+- Enhance collaboration and streamline workflows
+- Explore smarter ways to work with AI-driven automation
+ 
+## Learning Outcomes
+- Introduction to Microsoft Copilot Agents
+- AI-driven workflow automation use cases
+- Automating repetitive and manual business tasks
+- Enhancing collaboration and operational efficiency
+- Best practices for implementing Copilot Agents effectively
+
+Explore the future of workplace automation and learn how Microsoft Copilot Agents can help transform the way your teams work.
+
+----------------------------------------------------------------------
+
 # Session - 2: Start Smart with Microsoft 365 Copilot
 
 AI is transforming the way we work, helping professionals become more productive, efficient, and collaborative. Join our exclusive session on “Start Smart with Microsoft 365 Copilot” to explore how AI can simplify daily tasks, improve communication, and help you work smarter across your organization.
@@ -25,7 +49,7 @@ Take the next step toward AI-powered productivity and discover how Microsoft 365
 
 -------------------------------------------------------------------------------------------------------
 
-## Session - 1: Everyday AI with Copilot Chat
+# Session - 1: Everyday AI with Copilot Chat
 
 AI is becoming an essential part of the modern workplace, helping professionals work smarter, faster, and more efficiently. Join our session on “Everyday AI with Copilot Chat” to discover how AI can simplify daily work, improve productivity, and help transform ideas into action with ease.
 
